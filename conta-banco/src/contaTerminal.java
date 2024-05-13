@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class contaTerminal {
     public static void main(String[] args) throws Exception {
-        //TODO: Conhecer e importa as Class Scaner - ok
+        //TODO: Conhecer e importa as Class Scaner
 
         //Exibir as msg para o nosso usuario
 
